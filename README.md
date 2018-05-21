@@ -1,0 +1,2 @@
+# Wayz
+RandomBin
